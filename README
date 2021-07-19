@@ -1,0 +1,8 @@
+	La aceasta tema am implementat algoritmii Algebraic si
+Iterative pentru gasirea vectorului de valori PageRank. Am urmat
+instructiunile gasite pe site-ul Wikipedia. La functia PR_Inv am
+aflat descompunerea QR a munei matrici A, si am folosit cele doua
+matrici rezultante pentru a afla solutiile sisteemelor. In functie 
+de PageRank am ordonat vectorul R, iar apoi am facut modificari in
+cazul in care paginile au acelasi ranking, in asa fel incat pagina
+cu pioritate mai mare este cea cu  mai  multe linkuri. 
